@@ -1,0 +1,7 @@
+C:\Users\n1\source\repos\HW3-2\HW3-2\bin\Debug\HW3-2.exe.config
+C:\Users\n1\source\repos\HW3-2\HW3-2\bin\Debug\HW3-2.exe
+C:\Users\n1\source\repos\HW3-2\HW3-2\bin\Debug\HW3-2.pdb
+C:\Users\n1\source\repos\HW3-2\HW3-2\obj\Debug\HW3-2.csprojAssemblyReference.cache
+C:\Users\n1\source\repos\HW3-2\HW3-2\obj\Debug\HW3-2.csproj.CoreCompileInputs.cache
+C:\Users\n1\source\repos\HW3-2\HW3-2\obj\Debug\HW3-2.exe
+C:\Users\n1\source\repos\HW3-2\HW3-2\obj\Debug\HW3-2.pdb
