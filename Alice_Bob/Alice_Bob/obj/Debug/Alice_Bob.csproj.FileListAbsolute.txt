@@ -1,0 +1,7 @@
+C:\Users\n1\source\repos\Alice_Bob\Alice_Bob\bin\Debug\Alice_Bob.exe.config
+C:\Users\n1\source\repos\Alice_Bob\Alice_Bob\bin\Debug\Alice_Bob.exe
+C:\Users\n1\source\repos\Alice_Bob\Alice_Bob\bin\Debug\Alice_Bob.pdb
+C:\Users\n1\source\repos\Alice_Bob\Alice_Bob\obj\Debug\Alice_Bob.csprojAssemblyReference.cache
+C:\Users\n1\source\repos\Alice_Bob\Alice_Bob\obj\Debug\Alice_Bob.csproj.CoreCompileInputs.cache
+C:\Users\n1\source\repos\Alice_Bob\Alice_Bob\obj\Debug\Alice_Bob.exe
+C:\Users\n1\source\repos\Alice_Bob\Alice_Bob\obj\Debug\Alice_Bob.pdb
