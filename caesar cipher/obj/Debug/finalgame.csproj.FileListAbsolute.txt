@@ -1,0 +1,31 @@
+c:\users\user8\documents\visual studio 2015\Projects\finalgame\bin\Debug\finalgame.exe.config
+c:\users\user8\documents\visual studio 2015\Projects\finalgame\bin\Debug\finalgame.exe
+c:\users\user8\documents\visual studio 2015\Projects\finalgame\bin\Debug\finalgame.pdb
+c:\users\user8\documents\visual studio 2015\Projects\finalgame\obj\Debug\finalgame.csprojResolveAssemblyReference.cache
+c:\users\user8\documents\visual studio 2015\Projects\finalgame\obj\Debug\finalgame.Form1.resources
+c:\users\user8\documents\visual studio 2015\Projects\finalgame\obj\Debug\finalgame.Properties.Resources.resources
+c:\users\user8\documents\visual studio 2015\Projects\finalgame\obj\Debug\finalgame.csproj.GenerateResource.Cache
+c:\users\user8\documents\visual studio 2015\Projects\finalgame\obj\Debug\finalgame.exe
+c:\users\user8\documents\visual studio 2015\Projects\finalgame\obj\Debug\finalgame.pdb
+C:\Users\admin\Desktop\finalgame\bin\Debug\finalgame.exe.config
+C:\Users\admin\Desktop\finalgame\obj\Debug\finalgame.exe
+C:\Users\admin\Desktop\finalgame\obj\Debug\finalgame.pdb
+C:\Users\admin\Desktop\finalgame\bin\Debug\finalgame.exe
+C:\Users\admin\Desktop\finalgame\bin\Debug\finalgame.pdb
+C:\Users\admin\Desktop\finalgame\obj\Debug\finalgame.csprojResolveAssemblyReference.cache
+C:\Users\admin\Desktop\finalgame\obj\Debug\finalgame.Form1.resources
+C:\Users\admin\Desktop\finalgame\obj\Debug\finalgame.Properties.Resources.resources
+C:\Users\admin\Desktop\finalgame\obj\Debug\finalgame.csproj.GenerateResource.Cache
+C:\Users\admin\Desktop\C# final\finalgame\bin\Debug\finalgame.exe.config
+C:\Users\admin\Desktop\C# final\finalgame\obj\Debug\finalgame.exe
+C:\Users\admin\Desktop\C# final\finalgame\obj\Debug\finalgame.pdb
+F:\專題\C#\caesar cipher\bin\Debug\finalgame.exe.config
+F:\專題\C#\caesar cipher\bin\Debug\finalgame.exe
+F:\專題\C#\caesar cipher\bin\Debug\finalgame.pdb
+F:\專題\C#\caesar cipher\obj\Debug\finalgame.csprojAssemblyReference.cache
+F:\專題\C#\caesar cipher\obj\Debug\finalgame.Form1.resources
+F:\專題\C#\caesar cipher\obj\Debug\finalgame.Properties.Resources.resources
+F:\專題\C#\caesar cipher\obj\Debug\finalgame.csproj.GenerateResource.cache
+F:\專題\C#\caesar cipher\obj\Debug\finalgame.csproj.CoreCompileInputs.cache
+F:\專題\C#\caesar cipher\obj\Debug\finalgame.exe
+F:\專題\C#\caesar cipher\obj\Debug\finalgame.pdb
