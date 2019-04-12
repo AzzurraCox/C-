@@ -1,0 +1,11 @@
+C:\Users\n1\source\repos\HW1 - calulator\HW1 - calulator\bin\Debug\netcoreapp2.0\HW1 - calulator.deps.json
+C:\Users\n1\source\repos\HW1 - calulator\HW1 - calulator\bin\Debug\netcoreapp2.0\HW1 - calulator.runtimeconfig.json
+C:\Users\n1\source\repos\HW1 - calulator\HW1 - calulator\bin\Debug\netcoreapp2.0\HW1 - calulator.runtimeconfig.dev.json
+C:\Users\n1\source\repos\HW1 - calulator\HW1 - calulator\bin\Debug\netcoreapp2.0\HW1 - calulator.dll
+C:\Users\n1\source\repos\HW1 - calulator\HW1 - calulator\bin\Debug\netcoreapp2.0\HW1 - calulator.pdb
+C:\Users\n1\source\repos\HW1 - calulator\HW1 - calulator\obj\Debug\netcoreapp2.0\HW1 - calulator.csprojAssemblyReference.cache
+C:\Users\n1\source\repos\HW1 - calulator\HW1 - calulator\obj\Debug\netcoreapp2.0\HW1 - calulator.csproj.CoreCompileInputs.cache
+C:\Users\n1\source\repos\HW1 - calulator\HW1 - calulator\obj\Debug\netcoreapp2.0\HW1 - calulator.AssemblyInfoInputs.cache
+C:\Users\n1\source\repos\HW1 - calulator\HW1 - calulator\obj\Debug\netcoreapp2.0\HW1 - calulator.AssemblyInfo.cs
+C:\Users\n1\source\repos\HW1 - calulator\HW1 - calulator\obj\Debug\netcoreapp2.0\HW1 - calulator.dll
+C:\Users\n1\source\repos\HW1 - calulator\HW1 - calulator\obj\Debug\netcoreapp2.0\HW1 - calulator.pdb

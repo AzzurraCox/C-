@@ -1,0 +1,7 @@
+C:\Users\n1\source\repos\HW1-calculator2\HW1-calculator2\bin\Debug\HW1-calculator2.exe.config
+C:\Users\n1\source\repos\HW1-calculator2\HW1-calculator2\bin\Debug\HW1-calculator2.exe
+C:\Users\n1\source\repos\HW1-calculator2\HW1-calculator2\bin\Debug\HW1-calculator2.pdb
+C:\Users\n1\source\repos\HW1-calculator2\HW1-calculator2\obj\Debug\HW1-calculator2.csprojAssemblyReference.cache
+C:\Users\n1\source\repos\HW1-calculator2\HW1-calculator2\obj\Debug\HW1-calculator2.csproj.CoreCompileInputs.cache
+C:\Users\n1\source\repos\HW1-calculator2\HW1-calculator2\obj\Debug\HW1-calculator2.exe
+C:\Users\n1\source\repos\HW1-calculator2\HW1-calculator2\obj\Debug\HW1-calculator2.pdb
